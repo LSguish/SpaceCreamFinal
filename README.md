@@ -4,7 +4,7 @@
 
 ## 💻 About the challenge
 
-Go back to the challenge **“Grid com animações”** of Stage 03 and do a refactoring of your code, translating to English the classes's and ids's comments and names, always as possible. 
+Go back to the challenge **“Grid com animações”** of Stage 03 and do a refactoring of your code, translating to English the classes's and ids's comments and names, whenever possible. 
 
 After finished, upload the code to your GitHub's profile, updating the project.
 
