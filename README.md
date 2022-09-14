@@ -23,7 +23,7 @@ This project was developed with:
 - Medium queries.
 
 ## 🔗 My Links
-Find me in the internet:<br/>
+How to find me:<br/>
 [![mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamlucas.mlima@gmail.com)<br/>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins-lima/)<br/>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LSguish?tab=repositories)
