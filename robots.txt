@@ -1,5 +1,2 @@
 User-agent: *
 Disallow: /neuro-quiet.html
-
-
-Sitemap: https://easytobuy.shop/sitemap.xml
